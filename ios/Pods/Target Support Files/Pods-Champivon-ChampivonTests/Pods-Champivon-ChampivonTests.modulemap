@@ -1,0 +1,6 @@
+module Pods_Champivon_ChampivonTests {
+  umbrella header "Pods-Champivon-ChampivonTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
